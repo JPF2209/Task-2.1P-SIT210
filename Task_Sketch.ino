@@ -12,8 +12,8 @@ DHT dht(DHTPIN, DHTTYPE);
 
 WiFiClient client;
 
-char ssid[] = "TelstraE78C95";
-char pass[] = "mnnu9vh7x7";
+char ssid[] = "Your WiFi Username";
+char pass[] = "Your WiFi Password";
 int status = WL_IDLE_STATUS;
 
 unsigned long myChannelNumber = 2500206;
